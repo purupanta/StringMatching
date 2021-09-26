@@ -1,7 +1,9 @@
 # author: Purushottam Panta (purupanta@uky.edu)
 # proj: Improved NaiveSearch v0
 # last updated: 09162021
-#
+# usage: inputs:
+#            strX <this is the string where we look for the pattern of some other string>
+#            strY <this is the pattern of a string which we look on strX>
 
 import SearchLab
 
