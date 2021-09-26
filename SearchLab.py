@@ -1,3 +1,8 @@
+# author: Purushottam Panta (purupanta@uky.edu)
+# proj: Improved NaiveSearch v0
+# last updated: 09162021
+#
+
 class NaiveSearch:
     
     def MySearch(strX = "", strY = ""):
