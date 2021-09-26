@@ -2,6 +2,11 @@
 
 # Improved SlidingWindow Search complexity: O((n-m) * m)
 
+Input: StringX, StringY
+Output: Indices # at StringX as array.
+
+
+
 class NaiveSearch:
     
     def MySearch(strX = "", strY = ""):
