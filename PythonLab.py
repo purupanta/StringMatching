@@ -4,6 +4,8 @@
 # usage: inputs:
 #            strX <this is the string where we look for the pattern of some other string>
 #            strY <this is the pattern of a string which we look on strX>
+#         output:
+#             returns an array of start-point indices on "strX", where the pattern "strY" occurs
 
 import SearchLab
 
